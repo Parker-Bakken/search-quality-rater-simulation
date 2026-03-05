@@ -1,48 +1,68 @@
+# Query Evaluation
+
 Query:
 how to reset Windows 11 password
 
 Intent Type:
-Informational / troubleshooting
+Informational / Troubleshooting
 
 User Need:
-User wants to regain access to their computer safely.
+The user wants to regain access to their Windows 11 account by resetting their password safely.
 
 ---
 
-Result A
-Microsoft support article explaining password reset steps.
+## Result A
+
+Description:
+Official Microsoft Support article explaining Windows 11 password reset options.
 
 Rating:
 4 — Fully Meets
 
 Justification:
-• Official source for Windows instructions
-• Clear step-by-step process
-• Covers multiple recovery methods
-• High trustworthiness
+• Official documentation from the operating system developer  
+• Clear step-by-step instructions  
+• Covers multiple recovery methods  
+• High trustworthiness and accuracy  
 
 ---
 
-Result B
-Technology blog post about resetting passwords.
+## Result B
+
+Description:
+Technology blog tutorial explaining password reset steps.
 
 Rating:
 3 — Highly Meets
 
 Justification:
-• Good instructions
-• Not official documentation
-• May lack some advanced recovery methods
+• Helpful instructions for solving the issue  
+• Includes screenshots and walkthroughs  
+• Not an official source, so accuracy may vary  
 
 ---
 
-Result C
-Forum discussion thread.
+## Result C
+
+Description:
+Forum thread where users discuss ways to bypass Windows passwords.
 
 Rating:
 1 — Slightly Meets
 
 Justification:
-• Mixed advice
-• Unverified suggestions
-• May be outdated
+• Advice may be outdated or unsafe  
+• Unverified suggestions from anonymous users  
+• May involve risky or unsupported methods  
+
+---
+
+## Best Result
+
+Result A best satisfies the user need because it provides accurate, safe instructions from the official software provider.
+
+---
+
+## Potential Improvements
+
+Additional troubleshooting scenarios could help users who do not have recovery email access.
