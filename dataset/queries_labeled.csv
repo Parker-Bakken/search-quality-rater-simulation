@@ -1,0 +1,105 @@
+query,intent,notes
+how to reset windows 11 password,informational,troubleshooting
+windows 11 safe mode,informational,troubleshooting
+fix no internet windows 10,informational,troubleshooting
+how to clear browser cache chrome,informational,how-to
+what is machine learning,informational,definition
+best ai tools for students,informational,recommendation
+how to write a resume,informational,career
+symptoms of shingles,ymyl,health
+is chest pain serious,ymyl,health
+best credit cards for cashback,ymyl,finance
+how to file taxes online,ymyl,finance
+cheap flights to seattle,transactional,travel
+hotels in spokane,transactional,travel
+buy refurbished iphone 13,transactional,shopping
+iphone 13 price,transactional,shopping
+best laptop under 700,transactional,shopping/research
+order pizza near me,local,food
+coffee shops near me,local,visit-in-person
+gas stations open now,local,time-sensitive
+spokane public library hours,local,navigational/local
+dmv near me,local,government
+youtube login,navigational,account
+gmail login,navigational,account
+open google drive,navigational,account
+amazon customer service,navigational,support
+netflix sign in,navigational,account
+facebook marketplace,navigational,product
+best restaurants in spokane,local,recommendation
+urgent care near me,ymyl,health/local
+how to treat a burn,ymyl,health
+ibuprofen dosage adult,ymyl,health
+best stocks to buy,ymyl,finance
+what is apr,ymyl,finance
+mortgage calculator,ymyl,finance
+bank routing number lookup,ymyl,finance
+is keto safe,ymyl,health
+symptoms of covid,ymyl,health
+how long does flu last,ymyl,health
+how to start a business,informational,business
+llc vs sole proprietorship,ymyl,legal/finance
+tenant rights washington state,ymyl,legal
+how to write a cover letter,informational,career
+interview questions and answers,informational,career
+how to learn python fast,informational,education
+python list comprehension,informational,education
+what time is it in london,informational,time-sensitive
+bitcoin price today,informational,time-sensitive
+weather tomorrow spokane,informational,time-sensitive
+nba scores last night,informational,time-sensitive
+how to change gmail password,informational,account
+recover deleted files windows,informational,troubleshooting
+best free video editor,informational,recommendation
+canva login,navigational,account
+capcut download,transactional,download
+adobe premiere price,transactional,shopping
+how to edit youtube shorts,informational,how-to
+youtube shorts algorithm,informational,education
+how to increase tiktok views,informational,social
+best hashtags for shorts,informational,social
+convert mp4 to mp3,transactional,tool
+download youtube audio,transactional,tool
+nearest post office,local,government
+usps tracking,navigational,shipping
+fedex tracking,navigational,shipping
+ups tracking,navigational,shipping
+spokane to seattle drive time,informational,travel
+train seattle to spokane tickets,transactional,travel
+restaurants open late,local,time-sensitive
+movie times near me,local,entertainment
+best headphones under 100,transactional,shopping/research
+buy airpods,transactional,shopping
+airpods vs galaxy buds,informational,comparison
+how to connect bluetooth headphones,informational,how-to
+iphone not charging,informational,troubleshooting
+reset iphone without password,ymyl,security
+how to protect from identity theft,ymyl,finance/security
+credit score check free,ymyl,finance
+how to dispute a charge,ymyl,finance
+small claims court washington,ymyl,legal
+how to write a will,ymyl,legal
+what is a 401k,ymyl,finance
+roth ira vs traditional ira,ymyl,finance
+best budgeting app,ymyl,finance
+how to meal prep,informational,how-to
+calories in banana,informational,nutrition
+how to lose weight fast,ymyl,health
+signs of dehydration,ymyl,health
+how to stop anxiety quickly,ymyl,health/mental
+therapist near me,ymyl,health/local
+suicide hotline,ymyl,health/emergency
+poison control number,ymyl,health/emergency
+how to do cpr,ymyl,health/emergency
+car insurance quotes,ymyl,finance
+cheapest car insurance,ymyl,finance
+buy used car near me,local,transactional
+oil change near me,local,auto
+tire repair near me,local,auto
+how to change a tire,informational,how-to
+best mechanic spokane,local,recommendation
+costco hours spokane,local,time-sensitive
+target near me,local,shopping
+walmart pickup,transactional,shopping
+ubereats customer service,navigational,support
+doordash login,navigational,account
