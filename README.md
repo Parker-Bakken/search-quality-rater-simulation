@@ -29,6 +29,7 @@ Reusable evaluation template.
 
 dataset/
 Example labeled query dataset.
+Includes a labeled dataset (100 queries) and QA scorecard to simulate internal rater calibration.
 
 ---
 
