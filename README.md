@@ -1,80 +1,23 @@
 # Search Quality Rater Simulation
 
-This repository simulates the workflow used by professional Search Quality Raters who evaluate search engine results based on user intent, usefulness, and trustworthiness.
+Simulates professional Search Quality Rater workflows:
+- intent interpretation
+- result usefulness
+- trust / authority signals
+- YMYL sensitivity
+- freshness needs
+- clear justifications with consistent rubric application
 
-The project demonstrates structured reasoning for rating search results and includes a standardized rubric, evaluation checklist, and example query evaluations.
+## Quick start (review order)
+1) `rating-framework/` — rubric + rating scale
+2) `templates/` — evaluation template
+3) `examples/` — rated SERP-style examples + rationales
+4) `dataset/` — labeled dataset + QA scorecard
+5) `analysis/` — summary notes + consistency checks
+6) `gold/` — adjudicated edge cases (added)
+7) `reports/scorecard.md` — quick metrics + findings (added)
 
-This portfolio project demonstrates skills relevant to AI training and search evaluation roles including:
-
-• Search intent classification
-• Result usefulness evaluation
-• Trust and authority assessment
-• Structured justification writing
-• Consistent rating application
-
-These skills are commonly used by AI data training companies that evaluate search and generative AI outputs.
-
----
-
-## Project Structure
-
-rating-framework/
-Defines the evaluation rules and rating scale.
-
-examples/
-Example query evaluations showing rating logic.
-
-templates/
-Reusable evaluation template.
-
-dataset/
-Example labeled query dataset.
-Includes a labeled dataset (100 queries) and QA scorecard to simulate internal rater calibration.
-
----
-
-## Rating Methodology
-
-Each query is evaluated using:
-
-1. Intent classification
-2. Result usefulness
-3. Content trustworthiness
-4. Effort required to satisfy user need
-5. Freshness when relevant
-6. YMYL (Your Money or Your Life) sensitivity
-
-Results are rated on a 0–4 scale based on how well they satisfy the user’s likely intent.
-
----
-
-## Example Use Case
-
-Query: "how to reset Windows 11 password"
-
-Result evaluations consider:
-
-• intent match
-• source credibility
-• completeness
-• safety risks
-
----
-
-## Skills Demonstrated
-
-Search evaluation  
-Data labeling  
-Content quality analysis  
-AI response evaluation reasoning  
-Dataset creation  
-AI-training
-Search-quality
-Data-labeling
-Machine-learning
-Dataset
-AI-evaluation
-
----
-
-This project is designed as a portfolio artifact demonstrating skills relevant to Search Quality Rating and AI training evaluation.
+## Additions that set this apart
+- QA log: `qa/qa_log.csv`
+- Gold set: `gold/gold_set.csv`
+- Calibration notes: `calibration.md`
